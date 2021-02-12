@@ -6,7 +6,7 @@
 
 ## PROBLEM STATEMENT
 
-<img src="https://media.gettyimages.com/photos/an-autolib-electric-bluecar-sits-at-the-autolib-carsharing-in-on-picture-id465684522?s=2048x2048.png">
+<img src="http://pngimg.com/uploads/electric_car/small/electric_car_PNG61.png.">
 
 * Bluecars are an electric ride sharing company based in France.
 
@@ -76,7 +76,7 @@ outlined. I use the CRISP DM Methodology to approach the project.
 
 *Suggestions on improvement are welcome.
 
-##Licence
+## Licence
 
 MIT License
 
