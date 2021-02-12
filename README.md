@@ -6,7 +6,8 @@
 
 ## PROBLEM STATEMENT
 
-<img src="http://pngimg.com/uploads/electric_car/small/electric_car_PNG61.png.">
+![alt text](http://http://pngimg.com/uploads/electric_car/small/electric_car_PNG61./to/img.png)
+
 
 * Bluecars are an electric ride sharing company based in France.
 
