@@ -6,7 +6,8 @@
 
 ## PROBLEM STATEMENT
 
-![alt text](http://http://pngimg.com/uploads/electric_car/small/electric_car_PNG61./to/img.png)
+img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Autolib_logo.svg/1200px-Autolib_logo.svg.png">
+
 
 
 * Bluecars are an electric ride sharing company based in France.
