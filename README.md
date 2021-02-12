@@ -6,7 +6,7 @@
 
 ## PROBLEM STATEMENT
 
-img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Autolib_logo.svg/1200px-Autolib_logo.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Autolib_logo.svg/1200px-Autolib_logo.svg.png">
 
 
 
